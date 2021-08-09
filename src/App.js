@@ -1,9 +1,11 @@
 import React from "react";
-import Say from "./Say"
 
 function App() {
-  return <Say />;
-}
+    return (
+        <div>
 
+        </div>
+    );
+}
 
 export default App;
